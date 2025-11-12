@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/rtfollowage.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
